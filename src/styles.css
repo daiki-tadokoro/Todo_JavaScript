@@ -13,6 +13,7 @@ button {
   border-radius: 16px;
   border: none;
   padding: 4px 16px;
+  margin-left: 6px;
 }
 
 button:hover {
@@ -57,4 +58,8 @@ button:hover {
   display: flex;
   align-items: center;
   padding-bottom: 4px;
+}
+
+.todo-name {
+  margin-right: 4px;
 }
